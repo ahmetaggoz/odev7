@@ -1,0 +1,2 @@
+# odev7
+VERİLEN ÖDEV YAPILDI.
